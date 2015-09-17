@@ -1,7 +1,7 @@
 {
   "name": "feature-toggle-express",
   "description": "Proof of concept.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Daniel Illouz",
   "dependencies": {
 	"express": "^4.13.3",
